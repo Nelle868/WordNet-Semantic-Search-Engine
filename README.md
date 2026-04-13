@@ -10,6 +10,8 @@ This tool allows a user to type in a word or list of words and receive all words
 
 ---
 
+Note: The data folder is too large to upload, but can be accessed/downloaded here: https://drive.google.com/drive/folders/1ceoZ5ovxXvWNDEcDMeAeAFvUB4vXl0xd?usp=drive_link
+
 ## Features
 
 - Single and multi-word hyponym search
